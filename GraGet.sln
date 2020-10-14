@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraGet.Mp", "src\GraGet.Mp\GraGet.Mp.csproj", "{068709E6-6704-47DC-96D4-A72CCB2E512E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraGadGet.Functions.PackageCatalog", "GraGadGet.Functions.PackageCatalog\GraGadGet.Functions.PackageCatalog.csproj", "{77B26961-4465-445B-9449-D18CF386E34C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraGadGet.Functions.PackageCatalog", "src\GraGadGet.Functions.PackageCatalog\GraGadGet.Functions.PackageCatalog.csproj", "{03DE527A-C7DD-485E-8F2A-48B63AC5FACD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{068709E6-6704-47DC-96D4-A72CCB2E512E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{068709E6-6704-47DC-96D4-A72CCB2E512E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{068709E6-6704-47DC-96D4-A72CCB2E512E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{77B26961-4465-445B-9449-D18CF386E34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77B26961-4465-445B-9449-D18CF386E34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77B26961-4465-445B-9449-D18CF386E34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77B26961-4465-445B-9449-D18CF386E34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DE527A-C7DD-485E-8F2A-48B63AC5FACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DE527A-C7DD-485E-8F2A-48B63AC5FACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DE527A-C7DD-485E-8F2A-48B63AC5FACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DE527A-C7DD-485E-8F2A-48B63AC5FACD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

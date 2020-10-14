@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Hosting;
 using ConsoleAppFramework;
 
-namespace GraGet.Mp
+namespace GraGadGet.Mp
 {
     class Mp : ConsoleAppBase
     {
